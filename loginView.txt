@@ -1,0 +1,32 @@
+<Grid.Background>
+            <ImageBrush ImageSource="/50104273998_3bb93042c6_o.jpg"/>
+        </Grid.Background>
+        <Rectangle Margin="0,180,-5,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="306" RenderTransformOrigin="0.5,0.5" Height="243" RadiusX="4.54" RadiusY="4.54">
+            <Rectangle.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleY="1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Rectangle.RenderTransform>
+            <Rectangle.Fill>
+                <SolidColorBrush Color="White" Opacity="0.8"/>
+            </Rectangle.Fill>
+            <Rectangle.Stroke>
+                <SolidColorBrush Color="#FF69A0FF" Opacity="0.8"/>
+            </Rectangle.Stroke>
+        </Rectangle>
+
+        <Rectangle Opacity="0.6" IsManipulationEnabled="True" Height="92" VerticalAlignment="Top">
+            <Rectangle.Fill>
+                <SolidColorBrush Color="White" Opacity="0.8"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Label x:Name="Languago_Text" Content="Languago" Margin="0,12,0,0" FontSize="44" HorizontalAlignment="Center" Width="202" VerticalAlignment="Top"/>
+        <Label Content="Label" Margin="747,261,306,323"/>
+        <PasswordBox x:Name="PassBox" Margin="0,297,20,0" Height="43" VerticalAlignment="Top" HorizontalAlignment="Right" Width="264" FontSize="22" VerticalContentAlignment="Center"/>
+        <Button x:Name="LoginButton" Content="Login" Margin="0,361,20,0" Click="Login_click" HorizontalAlignment="Right" Width="98" Height="32" VerticalAlignment="Top" Background="#FF2369FF" FontSize="18" BorderThickness="3,3,3,3"/>
+        <Label Content="Login" Margin="0,200,245,0" Padding="5,0,5,0" Background="#FF999999" Height="18" VerticalAlignment="Top" HorizontalAlignment="Right" Width="39"/>
+        <Label Content="Password" Margin="0,281,225,0" Padding="5,0,5,0" Background="#FF999999" VerticalAlignment="Top" HorizontalAlignment="Right" Width="59"/>
+        <TextBox x:Name="LoginBox" Margin="0,218,20,0" TextWrapping="Wrap" TextChanged="TextBox_TextChanged" FontSize="22" Padding="0,3,0,0" HorizontalAlignment="Right" Width="264" Height="41" VerticalAlignment="Top"/>

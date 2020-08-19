@@ -1,0 +1,15 @@
+﻿<Window x:Name="Languago" x:Class="Languago.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Languago"
+        mc:Ignorable="d"
+        Title="Languago" Height="600" Width="1053" WindowStyle="SingleBorderWindow" ResizeMode="CanResize" SizeToContent="Manual" MinWidth="1053" MinHeight="600" MaxWidth="1053" MaxHeight="600">
+    <Window.Background>
+        <ImageBrush ImageSource="/50104273998_3bb93042c6_o.jpg"/>
+    </Window.Background>
+    <Grid>
+        <ContentControl Content="{Binding CurrentViewModel}"/>
+    </Grid>
+</Window>

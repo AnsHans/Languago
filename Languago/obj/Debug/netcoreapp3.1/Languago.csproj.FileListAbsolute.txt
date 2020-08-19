@@ -1,0 +1,212 @@
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\obj\Debug\netcoreapp3.1\Languago_MarkupCompile.cache
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\obj\Debug\netcoreapp3.1\Languago_MarkupCompile.lref
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\bin\Debug\netcoreapp3.1\Languago.exe
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\bin\Debug\netcoreapp3.1\Languago.deps.json
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\bin\Debug\netcoreapp3.1\Languago.runtimeconfig.json
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\bin\Debug\netcoreapp3.1\Languago.runtimeconfig.dev.json
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\bin\Debug\netcoreapp3.1\Languago.dll
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\bin\Debug\netcoreapp3.1\Languago.pdb
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\bin\Debug\netcoreapp3.1\npgsql.dll
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\obj\Debug\netcoreapp3.1\Languago.g.resources
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\obj\Debug\netcoreapp3.1\Languago.AssemblyInfoInputs.cache
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\obj\Debug\netcoreapp3.1\Languago.AssemblyInfo.cs
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\obj\Debug\netcoreapp3.1\Languago.csproj.CoreCompileInputs.cache
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\obj\Debug\netcoreapp3.1\Languago.csproj.CopyComplete
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\obj\Debug\netcoreapp3.1\Languago.dll
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\obj\Debug\netcoreapp3.1\Languago.pdb
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\obj\Debug\netcoreapp3.1\Languago.genruntimeconfig.cache
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago\Languago\obj\Debug\netcoreapp3.1\Languago.csprojAssemblyReference.cache
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\bin\Debug\netcoreapp3.1\Languago.exe
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\bin\Debug\netcoreapp3.1\Languago.deps.json
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\bin\Debug\netcoreapp3.1\Languago.runtimeconfig.json
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\bin\Debug\netcoreapp3.1\Languago.runtimeconfig.dev.json
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\bin\Debug\netcoreapp3.1\Languago.dll
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\bin\Debug\netcoreapp3.1\Languago.pdb
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\bin\Debug\netcoreapp3.1\npgsql.dll
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\obj\Debug\netcoreapp3.1\Languago.csprojAssemblyReference.cache
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\obj\Debug\netcoreapp3.1\Languago_MarkupCompile.cache
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\obj\Debug\netcoreapp3.1\Languago_MarkupCompile.lref
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\obj\Debug\netcoreapp3.1\Languago.g.resources
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\obj\Debug\netcoreapp3.1\Languago.AssemblyInfoInputs.cache
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\obj\Debug\netcoreapp3.1\Languago.AssemblyInfo.cs
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\obj\Debug\netcoreapp3.1\Languago.csproj.CoreCompileInputs.cache
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\obj\Debug\netcoreapp3.1\Languago.csproj.CopyComplete
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\obj\Debug\netcoreapp3.1\Languago.dll
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\obj\Debug\netcoreapp3.1\Languago.pdb
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\obj\Debug\netcoreapp3.1\Languago.genruntimeconfig.cache
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\obj\Debug\netcoreapp3.1\Views\Session.g.cs
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\obj\Debug\netcoreapp3.1\Views\Session.baml
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\obj\Debug\netcoreapp3.1\Views\Account.g.cs
+C:\Users\jakub\OneDrive - stud.prz.edu.pl\Languago\Languago MVVM\Languago\obj\Debug\netcoreapp3.1\Views\Account.baml
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\Languago.exe
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\Languago.deps.json
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\Languago.runtimeconfig.json
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\Languago.runtimeconfig.dev.json
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\Languago.dll
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\Languago.pdb
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\npgsql.dll
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+D:\Languago MVVM - Copy\Languago\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Languago MVVM - Copy\Languago\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Languago MVVM - Copy\Languago\obj\Debug\netcoreapp3.1\Languago_MarkupCompile.cache
+D:\Languago MVVM - Copy\Languago\obj\Debug\netcoreapp3.1\Languago_MarkupCompile.lref
+D:\Languago MVVM - Copy\Languago\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Languago MVVM - Copy\Languago\obj\Debug\netcoreapp3.1\Languago.g.resources
+D:\Languago MVVM - Copy\Languago\obj\Debug\netcoreapp3.1\Languago.AssemblyInfoInputs.cache
+D:\Languago MVVM - Copy\Languago\obj\Debug\netcoreapp3.1\Languago.AssemblyInfo.cs
+D:\Languago MVVM - Copy\Languago\obj\Debug\netcoreapp3.1\Languago.csproj.CoreCompileInputs.cache
+D:\Languago MVVM - Copy\Languago\obj\Debug\netcoreapp3.1\Languago.csproj.CopyComplete
+D:\Languago MVVM - Copy\Languago\obj\Debug\netcoreapp3.1\Languago.dll
+D:\Languago MVVM - Copy\Languago\obj\Debug\netcoreapp3.1\Languago.pdb
+D:\Languago MVVM - Copy\Languago\obj\Debug\netcoreapp3.1\Languago.genruntimeconfig.cache
+D:\Languago MVVM - Copy\Languago\obj\Debug\netcoreapp3.1\Views\AccountView.g.cs
+D:\Languago MVVM - Copy\Languago\obj\Debug\netcoreapp3.1\Views\SessionView.g.cs
+D:\Languago MVVM - Copy\Languago\obj\Debug\netcoreapp3.1\Views\AccountView.baml
+D:\Languago MVVM - Copy\Languago\obj\Debug\netcoreapp3.1\Views\SessionView.baml
+D:\Languago MVVM - Copy\Languago\obj\Debug\netcoreapp3.1\Views\LoginView.g.cs
+D:\Languago MVVM - Copy\Languago\obj\Debug\netcoreapp3.1\Views\LoginView.baml
+D:\Languago MVVM - Copy\Languago\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+D:\Languago MVVM - Copy\Languago\obj\Debug\netcoreapp3.1\App.baml
+D:\Languago MVVM - Copy\Languago\obj\Debug\netcoreapp3.1\Languago.csprojAssemblyReference.cache
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\System.Speech.dll
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\System.Speech.xml
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\Interop.SpeechLib.dll
+D:\Languago MVVM - Copy\Languago\obj\Debug\netcoreapp3.1\Interop.SpeechLib.dll
+D:\Languago MVVM - Copy\Languago\obj\Debug\netcoreapp3.1\Languago.csproj.ResolveComReference.cache
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\runtimes\linux-arm\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.core.so
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.core.so
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\runtimes\linux-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.core.so
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\runtimes\osx-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libMicrosoft.CognitiveServices.Speech.core.dylib
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.core.dll
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.core.dll
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+D:\Languago MVVM - Copy\Languago\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+C:\Users\jakub\Desktop\Languago\Languago\obj\Debug\netcoreapp3.1\Languago.csprojAssemblyReference.cache
+C:\Users\jakub\Desktop\Languago\Languago\obj\Debug\netcoreapp3.1\Interop.SpeechLib.dll
+C:\Users\jakub\Desktop\Languago\Languago\obj\Debug\netcoreapp3.1\Languago.csproj.ResolveComReference.cache
+C:\Users\jakub\Desktop\Languago\Languago\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\jakub\Desktop\Languago\Languago\obj\Debug\netcoreapp3.1\Views\AccountView.g.cs
+C:\Users\jakub\Desktop\Languago\Languago\obj\Debug\netcoreapp3.1\Views\LoginView.g.cs
+C:\Users\jakub\Desktop\Languago\Languago\obj\Debug\netcoreapp3.1\Views\SessionView.g.cs
+C:\Users\jakub\Desktop\Languago\Languago\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\jakub\Desktop\Languago\Languago\obj\Debug\netcoreapp3.1\GeneratedInternalTypeHelper.g.cs
+C:\Users\jakub\Desktop\Languago\Languago\obj\Debug\netcoreapp3.1\Languago_MarkupCompile.cache
+C:\Users\jakub\Desktop\Languago\Languago\obj\Debug\netcoreapp3.1\Languago_MarkupCompile.lref
+C:\Users\jakub\Desktop\Languago\Languago\obj\Debug\netcoreapp3.1\Languago.dll
+C:\Users\jakub\Desktop\Languago\Languago\obj\Debug\netcoreapp3.1\Languago.pdb
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\Languago.exe
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\Languago.deps.json
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\Languago.runtimeconfig.json
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\Languago.runtimeconfig.dev.json
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\Languago.dll
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\Languago.pdb
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\npgsql.dll
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\System.Interactive.Async.dll
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\runtimes\linux-arm\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.core.so
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.core.so
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\runtimes\linux-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.core.so
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.codec.so
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMicrosoft.CognitiveServices.Speech.extension.kws.so
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\runtimes\osx-x64\lib\netstandard2.0\Microsoft.CognitiveServices.Speech.csharp.dll
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libMicrosoft.CognitiveServices.Speech.core.dylib
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.core.dll
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.codec.dll
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.kws.dll
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.CognitiveServices.Speech.extension.silk_codec.dll
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\System.Speech.dll
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\System.Speech.xml
+C:\Users\jakub\Desktop\Languago\Languago\bin\Debug\netcoreapp3.1\Interop.SpeechLib.dll
+C:\Users\jakub\Desktop\Languago\Languago\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\jakub\Desktop\Languago\Languago\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\jakub\Desktop\Languago\Languago\obj\Debug\netcoreapp3.1\Views\AccountView.baml
+C:\Users\jakub\Desktop\Languago\Languago\obj\Debug\netcoreapp3.1\Views\LoginView.baml
+C:\Users\jakub\Desktop\Languago\Languago\obj\Debug\netcoreapp3.1\Views\SessionView.baml
+C:\Users\jakub\Desktop\Languago\Languago\obj\Debug\netcoreapp3.1\Languago.g.resources
+C:\Users\jakub\Desktop\Languago\Languago\obj\Debug\netcoreapp3.1\Languago.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\Languago\Languago\obj\Debug\netcoreapp3.1\Languago.AssemblyInfo.cs
+C:\Users\jakub\Desktop\Languago\Languago\obj\Debug\netcoreapp3.1\Languago.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\Languago\Languago\obj\Debug\netcoreapp3.1\Languago.csproj.CopyComplete
+C:\Users\jakub\Desktop\Languago\Languago\obj\Debug\netcoreapp3.1\Languago.genruntimeconfig.cache

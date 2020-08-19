@@ -1,0 +1,19 @@
+﻿<Application x:Class="Languago.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Languago"
+             xmlns:views="clr-namespace:Languago.Views"
+             xmlns:viewmodels="clr-namespace:Languago.ViewModels"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <DataTemplate DataType="{x:Type viewmodels:LoginViewModel}">
+            <views:LoginView/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodels:AccountViewModel}">
+            <views:AccountView/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodels:SessionViewModel}">
+            <views:SessionView/>
+        </DataTemplate>
+    </Application.Resources>
+</Application>
