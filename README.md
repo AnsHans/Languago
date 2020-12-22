@@ -1,8 +1,9 @@
-# Languago
+[![](https://i.imgur.com/S7L9sj5.jpg)](#)
 
-WPF application for learning languages.
-In order to run app you need to provide api keys.
+# Overview:
+Application made with WPF, Azure speech services, and Azure PostgreSQL.
 
-Login and password for release:
-anshans
-admin
+# Details:
+MVVM desktop application that creates sessions for learning French vocabulary. Each session is relearned a few times.
+The app stores data in PostgreSQL and uses speech services for checking and learning pronunciation.
+
