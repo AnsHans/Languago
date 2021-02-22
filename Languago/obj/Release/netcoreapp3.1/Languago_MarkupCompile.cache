@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\Languago MVVM - Copy\Languago\obj\Release\netcoreapp3.1\
+E:\OneDrive - stud.prz.edu.pl\Backup of desktop\Languago\Languago\Languago\obj\Release\netcoreapp3.1\
 Languago
 none
 false
-TRACE;RELEASE;NETCOREAPP;NETCOREAPP3_1
-D:\Languago MVVM - Copy\Languago\App.xaml
+TRACE;RELEASE;NETCOREAPP;NETCOREAPP3_1;
+E:\OneDrive - stud.prz.edu.pl\Backup of desktop\Languago\Languago\Languago\App.xaml
 41399711957
 
-20-1327225434
-209-62656902
+19-2056648271
+209-767573074
 MainWindow.xaml;Views\AccountView.xaml;Views\LoginView.xaml;Views\SessionView.xaml;
 
 False

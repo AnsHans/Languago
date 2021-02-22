@@ -5653,25 +5653,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jakub\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\bono\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jakub\\Desktop\\Languago\\Languago\\Languago.csproj",
+      "projectUniqueName": "E:\\OneDrive - stud.prz.edu.pl\\Backup of desktop\\Languago\\Languago\\Languago\\Languago.csproj",
       "projectName": "Languago",
-      "projectPath": "C:\\Users\\jakub\\Desktop\\Languago\\Languago\\Languago.csproj",
-      "packagesPath": "C:\\Users\\jakub\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jakub\\Desktop\\Languago\\Languago\\obj\\",
+      "projectPath": "E:\\OneDrive - stud.prz.edu.pl\\Backup of desktop\\Languago\\Languago\\Languago\\Languago.csproj",
+      "packagesPath": "C:\\Users\\bono\\.nuget\\packages\\",
+      "outputPath": "E:\\OneDrive - stud.prz.edu.pl\\Backup of desktop\\Languago\\Languago\\Languago\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\jakub\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\bono\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -5682,6 +5677,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -5693,6 +5689,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.CognitiveServices.Speech": {
             "target": "Package",
@@ -5725,7 +5722,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   },

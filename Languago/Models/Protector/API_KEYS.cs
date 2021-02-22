@@ -6,10 +6,12 @@ namespace Languago.Models.Protector
 {
     public class API_KEYS
     {
-        public string SpeechRecognitionAPI { get 
+        public string SpeechRecognitionAPI
+        {
+            get
             {
                 return "";
-            } 
+            }
         }
         public string SpeechRecognitionZONE
         {
@@ -28,7 +30,9 @@ namespace Languago.Models.Protector
             get
             {
                 return @"";
+
             }
         }
     }
 }
+
